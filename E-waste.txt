@@ -1,0 +1,197 @@
+E-waste
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E-Waste: The Growing Digital Dumpyards Threatening Our Environment and Health</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+            line-height: 1.6;
+        }
+        header {
+            background-color: #228B22; /* Forest Green */
+            color: white;
+            text-align: center;
+            padding: 20px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        nav {
+            background-color: #333;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: bold;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        main {
+            max-width: 1200px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            border-radius: 8px;
+        }
+        section {
+            margin-bottom: 40px;
+        }
+        h2 {
+            color: #228B22;
+            border-bottom: 2px solid #228B22;
+            padding-bottom: 10px;
+        }
+        p {
+            margin: 15px 0;
+        }
+        ul {
+            list-style-type: disc;
+            margin-left: 20px;
+        }
+        #visitor-counter {
+            text-align: center;
+            background-color: #e8f5e9;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 5px rgba(0,0,0,0.1);
+        }
+        #counter {
+            font-size: 2em;
+            color: #228B22;
+            font-weight: bold;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+    <script src="https://counterapi.com/counterapi.embed.js"></script>
+</head>
+<body>
+    <header>
+        <h1>E-Waste: The Growing Digital Dumpyards Threatening Our Environment and Health</h1>
+    </header>
+    <nav>
+        <a href="#introduction">Introduction</a>
+        <a href="#growing-problem">The Growing Problem</a>
+        <a href="#environmental-impacts">Environmental Impacts</a>
+        <a href="#health-impacts">Health Impacts</a>
+        <a href="#solutions">Solutions</a>
+        <a href="#conclusion">Conclusion</a>
+        <a href="#visitor-counter">Visitor Count</a>
+    </nav>
+    <main>
+        <section id="introduction">
+            <h2>Introduction</h2>
+            <p>Electronic waste, or e-waste, refers to discarded electrical or electronic devices. This includes everything from old smartphones and laptops to refrigerators and televisions. As technology advances rapidly, the lifecycle of electronic products shortens, leading to an exponential increase in e-waste generation worldwide.</p>
+            <p>E-waste is often referred to as "digital dumpyards" because much of it ends up in landfills or is improperly disposed of, posing severe threats to both the environment and human health.</p>
+        </section>
+        <section id="growing-problem">
+            <h2>The Growing Problem</h2>
+            <p>Global e-waste generation has been on a steep rise. According to recent reports, in 2024, approximately 62 million metric tons of e-waste were generated, with projections indicating it could reach 82 million tons by 2030 if current trends continue.</p>
+            <p>Only a small fraction—around 22%—is formally collected and recycled. The rest is either landfilled, incinerated, or illegally exported to developing countries, exacerbating the issue.</p>
+            <ul>
+                <li>Asia generates the highest volume of e-waste.</li>
+                <li>Per capita, Europe and North America produce the most e-waste.</li>
+                <li>Smartphones alone contribute significantly, with billions discarded annually.</li>
+            </ul>
+        </section>
+        <section id="environmental-impacts">
+            <h2>Environmental Impacts</h2>
+            <p>E-waste contains hazardous materials like lead, mercury, cadmium, and brominated flame retardants. When improperly disposed of, these toxins leach into soil and water, contaminating ecosystems.</p>
+            <p>Key environmental threats include:</p>
+            <ul>
+                <li><strong>Soil and Water Pollution:</strong> Toxins from e-waste can enter groundwater, affecting agriculture and drinking water sources.</li>
+                <li><strong>Air Pollution:</strong> Burning e-waste releases dioxins and furans, contributing to air quality degradation and climate change.</li>
+                <li><strong>Biodiversity Loss:</strong> Contaminated habitats harm wildlife, disrupting food chains.</li>
+            </ul>
+            <p>Moreover, e-waste recycling in informal sectors often involves open burning and acid leaching, further amplifying environmental damage.</p>
+        </section>
+        <section id="health-impacts">
+            <h2>Health Impacts</h2>
+            <p>Exposure to e-waste toxins poses serious health risks, particularly for workers in informal recycling sites and nearby communities.</p>
+            <p>Common health issues include:</p>
+            <ul>
+                <li><strong>Respiratory Problems:</strong> From inhaling toxic fumes.</li>
+                <li><strong>Neurological Damage:</strong> Lead and mercury can impair cognitive development in children.</li>
+                <li><strong>Cancer Risks:</strong> Prolonged exposure to carcinogens like cadmium.</li>
+                <li><strong>Reproductive and Developmental Issues:</strong> Affecting fertility and fetal development.</li>
+            </ul>
+            <p>In places like Guiyu, China, and Agbogbloshie, Ghana—known as e-waste hotspots—residents suffer from elevated levels of heavy metals in their blood.</p>
+        </section>
+        <section id="solutions">
+            <h2>Solutions and Recommendations</h2>
+            <p>Addressing the e-waste crisis requires a multi-faceted approach:</p>
+            <ul>
+                <li><strong>Extended Producer Responsibility (EPR):</strong> Manufacturers should take back old products for recycling.</li>
+                <li><strong>Improved Recycling Infrastructure:</strong> Invest in formal recycling facilities with safe practices.</li>
+                <li><strong>Consumer Awareness:</strong> Encourage repair, reuse, and responsible disposal.</li>
+                <li><strong>International Regulations:</strong> Strengthen the Basel Convention to curb illegal e-waste trade.</li>
+                <li><strong>Innovation:</strong> Design products for longevity and easy recycling.</li>
+            </ul>
+            <p>Individuals can contribute by recycling electronics at certified centers and opting for sustainable tech brands.</p>
+        </section>
+        <section id="conclusion">
+            <h2>Conclusion</h2>
+            <p>The e-waste epidemic is a ticking time bomb for our planet and health. By adopting sustainable practices and enforcing stricter regulations, we can mitigate its impacts and pave the way for a cleaner, healthier future.</p>
+        </section>
+        <section id="visitor-counter">
+            <h2>Visitor Count</h2>
+            <p>This website has been visited by <span id="counter">Loading...</span> unique users.</p>
+        </section>
+    </main>
+    <footer>
+        <p>Created by Mahi Gupta</p>
+    </footer>
+    <script>
+        const namespace = 'grok-ewaste-project-2025';
+        const key = 'visitors';
+
+        function updateCounter() {
+            counterApi.read(key, namespace, {}, function(err, data) {
+                if (err) {
+                    console.error(err);
+                    document.getElementById('counter').innerHTML = 'N/A';
+                } else {
+                    document.getElementById('counter').innerHTML = data;
+                }
+            });
+        }
+
+        if (!localStorage.getItem('visited_ewaste')) {
+            counterApi.increment(key, 'view', namespace, {}, function(err, data) {
+                if (err) {
+                    console.error(err);
+                    updateCounter(); // Fallback to get if increment fails
+                } else {
+                    document.getElementById('counter').innerHTML = data;
+                    localStorage.setItem('visited_ewaste', 'true');
+                }
+            });
+        } else {
+            updateCounter();
+        }
+    </script>
+</body>
+</html>
